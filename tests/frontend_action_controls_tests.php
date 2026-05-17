@@ -57,8 +57,8 @@ $tests = [
         assert_frontend_contains('2026', $indexRendered, 'footer should show 2026 release year');
         assert_frontend_contains('CoreProtect 23.2', $indexRendered, 'footer should reference supported CoreProtect version');
         assert_frontend_contains('Original CoLWI by', $indexRendered, 'footer should preserve original creator credit');
-        assert_frontend_contains('https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface', $indexRendered, 'footer should link CommunityCraft GitHub repo');
-        assert_frontend_contains('https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface/issues', $indexRendered, 'footer should link CommunityCraft issues');
+        assert_frontend_contains('https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web', $indexRendered, 'footer should link CommunityCraft GitHub repo');
+        assert_frontend_contains('https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web/issues', $indexRendered, 'footer should link CommunityCraft issues');
     },
     'main js serializes action metadata without duplicated bit constants' => function () use ($main) {
         assert_frontend_contains('const actionDefinitions = config.actions', $main, 'main.js should read action metadata from config');

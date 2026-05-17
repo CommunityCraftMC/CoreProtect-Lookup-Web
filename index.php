@@ -6,7 +6,7 @@
  * @author Simon Chuu
  * @copyright 2015-2020 Simon Chuu
  * @license MIT License
- * @link https://github.com/chuushi/CoreProtect-Lookup-Web-Interface
+ * @link https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web
  * @since 1.0.0
  */
 
@@ -294,8 +294,8 @@ function renderActionButtonGroup($group, $actions) {
         <div class="faded">
           CommunityCraft rework for CoreProtect 23.2, 2026
           &bull; Original CoLWI by <a href="https://chuu.sh/">chuu.sh</a>
-          &bull; <a href="https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface"><i class="fa fa-github"></i> GitHub page</a>
-          &bull; <a href="https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface/issues">Submit an issue</a>
+          &bull; <a href="https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web"><i class="fa fa-github"></i> GitHub page</a>
+          &bull; <a href="https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web/issues">Submit an issue</a>
         </div>
       </div>
     </footer>

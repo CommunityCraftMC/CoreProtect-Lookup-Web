@@ -8,7 +8,7 @@
  * @author Simon Chuu
  * @copyright 2015-2020 Simon Chuu
  * @license MIT License
- * @link https://github.com/chuushi/CoreProtect-Lookup-Web-Interface
+ * @link https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web
  * @since 1.0.0
  */
 require_once __DIR__ . '/ActionDefinitions.class.php';

@@ -1,4 +1,4 @@
-[CoreProtect Lookup Web Interface (CoLWI)](https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface)
+[CoreProtect Lookup Web Interface (CoLWI)](https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web)
 ===============================================================================
 *A flexible lookup web interface for CoreProtect 23.2*
 
@@ -123,12 +123,12 @@ need write permissions for lookups.
     - This option makes it easier to update the web app.
     - Run the following command in somewhere on the web server.
 ```sh
-git clone https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface.git
+git clone https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web.git
 ```
 
 - **Option 2:** Download
     - Download the
-      [latest release `.zip` file](https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface/releases/latest).
+      [latest release `.zip` file](https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web/releases/latest).
     - Extract the .zip file somewhere on the web server.
 
 ## Configuration
