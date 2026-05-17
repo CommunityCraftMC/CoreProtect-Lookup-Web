@@ -25,14 +25,14 @@ CoLWI was first created by Simon Chuu / chuu.sh and is available at
 https://github.com/chuushi/CoreProtect-Lookup-Web-Interface.
 
 This web app is capable of looking up logged data as if doing it from the game.
-Some filters are ported to this plugin, such as:
+Some filters are ported to this tool, such as:
 
 * Lookup by action
 * Lookup by username
 * Lookup by block name
 * Lookup by time
 
-In addition, this plugin makes it possible to:
+In addition, this tool makes it possible to:
 
 * Lookup data by coordinates and world
 * View more than four results per page
