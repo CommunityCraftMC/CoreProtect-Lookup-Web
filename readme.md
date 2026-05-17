@@ -1,8 +1,8 @@
 [CoreProtect Lookup Web Interface (CoLWI)](https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web-Interface)
 ===============================================================================
-*A flexible lookup web interface for CoreProtect 2.*
+*A flexible lookup web interface for CoreProtect 23.2*
 
-![Imgur](https://i.imgur.com/gre6LpC.png)
+![Gyazo](https://i.gyazo.com/df7a36e2799ef8f349afdafae44264b6.png)
 
 **Version:** CommunityCraft rework for CoreProtect **23.2** (2026)
 
@@ -13,11 +13,11 @@
 This is a _feature-packed_ web application that gives you the power to look up
 anything CoreProtect is capable of logging in the most efficient way.
 [CoreProtect, a Minecraft plugin,](https://www.spigotmc.org/resources/8631/)
-is developed by Intellii.
+is developed by Intellii, rework by CommunityCraft.
 
 This CommunityCraft rework targets CoreProtect **v23.2** database compatibility
 while keeping legacy CoreProtect 2 lookup behavior where possible. Original
-CoLWI was created by Simon Chuu / chuu.sh.
+CoLWI was first created by Simon Chuu / chuu.sh.
 
 This web app is capable of looking up logged data as if doing it from the game.
 Some filters are ported to this plugin, such as:
@@ -64,12 +64,11 @@ This rework adds support for the CoreProtect v23.2 lookup surface:
 
 ## Prerequisites
 
-- A web server with **PHP 5.6** or above. PHP 8.4 is used for current
+- A web server with **PHP 8.4** is used for current
   development verification.
     - Required extensions: PDO, plus PDO-SQLITE or PDO-MYSQL for the selected
       database type.
-- A CoreProtect database used by **CoreProtect 2.12** or above.
-    - Current compatibility work targets **CoreProtect v23.2**.
+- A CoreProtect database used by **CoreProtect v23.2** or above.
     - If using SQLite in real-time, the web server must be on the same machine
       as the Minecraft server.
 
@@ -259,9 +258,4 @@ git add config.php
 If you used the **option 2**, then you must re-download the `.zip` file and
 manually migrate the `config.php` file over.
 
-# Plugin Links
-
-* [BukkitDev](//dev.bukkit.org/bukkit-plugins/coreprotect-lwi/)
-* [Spigot](//www.spigotmc.org/resources/coreprotect-lookup-web-interface.28033/)
-
-~Chuu
+CommunityCraft
