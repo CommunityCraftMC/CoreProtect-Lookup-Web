@@ -8,7 +8,11 @@
 
 **Release tag:** `v23.2`
 
-*[Changelog](changelog.md) | [Contributing](contributing.md)*
+**Project repository:** https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web
+
+**Original repository:** https://github.com/chuushi/CoreProtect-Lookup-Web-Interface
+
+*[Changelog](changelog.md) | [Contributing](contributing.md) | [Issues](https://github.com/CommunityCraftMC/CoreProtect-Lookup-Web/issues)*
 
 This is a _feature-packed_ web application that gives you the power to look up
 anything CoreProtect is capable of logging in the most efficient way.
@@ -17,7 +21,8 @@ is developed by Intellii, rework by CommunityCraft.
 
 This CommunityCraft rework targets CoreProtect **v23.2** database compatibility
 while keeping legacy CoreProtect 2 lookup behavior where possible. Original
-CoLWI was first created by Simon Chuu / chuu.sh.
+CoLWI was first created by Simon Chuu / chuu.sh and is available at
+https://github.com/chuushi/CoreProtect-Lookup-Web-Interface.
 
 This web app is capable of looking up logged data as if doing it from the game.
 Some filters are ported to this plugin, such as:
